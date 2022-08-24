@@ -1,34 +1,15 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="The BIS2A Team">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11974</md:content-id>
-  <md:title>Collection Test 2-3</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9dba5956-e31e-424e-a6a5-09f985ebdf75</md:uuid>
-<md:slug>collection-test-2-3</md:slug>
-</metadata>
-
+    <md:content-id>col11974</md:content-id>
+    <md:title>Collection Test 2-3</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9dba5956-e31e-424e-a6a5-09f985ebdf75</md:uuid>
+    <md:slug>collection-test-2-3</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m59129"/>
-        
-      
-    
-    
-      <col:module document="m59443"/>
-        
-      
-    
+    <col:module document="m59129"/>
+    <col:module document="m59443"/>
   </col:content>
 </col:collection>
